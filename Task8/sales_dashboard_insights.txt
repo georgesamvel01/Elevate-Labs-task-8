@@ -1,0 +1,6 @@
+Sales Performance Dashboard - Insights
+
+1. The West region is the top contributor to profit, generating 108.42K, which accounts for approximately 38% of the total profit.
+2. New York City leads in total sales, exceeding 200K, far ahead of other cities like Los Angeles and Seattle.
+3. Canon and Hewlett-Packard dominate product profitability, significantly outperforming other product lines.
+4. Peak profitability occurred around specific shipping dates in late 2016 and early 2017, indicating seasonal or promotional sales impacts.
